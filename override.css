@@ -7,5 +7,5 @@
 
 /* header style overrides */
   .SearchBar__focusContainer__2uI0-:before {
-    border-radius: 0;
+    border-radius: 0 !important;
   }
