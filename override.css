@@ -10,7 +10,7 @@
     border-radius: 0 !important;
   }
 
-lander-content marketplace-lander-content h1, lander-content marketplace-lander-content p 
+.marketplace-lander .marketplace-lander-content-title, .marketplace-lander .marketplace-lander-content-description 
 {
  color: white;
 }
