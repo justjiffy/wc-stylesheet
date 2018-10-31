@@ -6,7 +6,7 @@
   }
 
 /* header style overrides */
-  .SearchBar__focusContainer__2uI0-:before, .AddNewListingButton__button__2H8yh
+  .SearchBar__focusContainer__2uI0-:before, .AddNewListingButton__button__2H8yh *
   {
     border-radius: 0 !important;
   }
