@@ -9,3 +9,8 @@
   .SearchBar__focusContainer__2uI0-:before {
     border-radius: 0 !important;
   }
+
+lander-content marketplace-lander-content h1, lander-content marketplace-lander-content p 
+{
+ color: white;
+}
