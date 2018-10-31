@@ -13,4 +13,5 @@
 .marketplace-lander .marketplace-lander-content-title, .marketplace-lander .marketplace-lander-content-description 
 {
  color: white;
+ text-shadow: 3px 3px 10px black;
 }
