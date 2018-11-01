@@ -1,38 +1,43 @@
 /* font overrides */
-
-  * 
-  {
-    font-family: 'Cormorant Garamond', serif !important;
-  }
+   * 
+   {
+     font-family: 'Cormorant Garamond', serif !important;
+   }
 
 /* header style overrides */
-  .SearchBar__focusContainer__2uI0-:before, .AddNewListingButton__button__2H8yh, .AddNewListingButton__button__2H8yh *
+    .SearchBar__focusContainer__2uI0-:before, .AddNewListingButton__button__2H8yh, .AddNewListingButton__button__2H8yh *
+    {
+      border-radius: 0 !important;
+    }
+
+  .marketplace-lander .marketplace-lander-content-title, .marketplace-lander .marketplace-lander-content-description 
   {
-    border-radius: 0 !important;
+   color: white;
+   text-shadow: 3px 3px 10px black;
   }
 
-.marketplace-lander .marketplace-lander-content-title, .marketplace-lander .marketplace-lander-content-description 
-{
- color: white;
- text-shadow: 3px 3px 10px black;
-}
-
-.Topbar__topbarMenuSpacer__3hqBi {
- display: none !important;
-}
+  .Topbar__topbarMenuSpacer__3hqBi {
+   display: none !important;
+  }
+  .Topbar__topbar__7GUWt {
+   justify-content: right;
+  }
+  .Logo {
+   margin-right: auto !important;
+  }
 
 /* listing overrides */
-button, .toggle, .home-toolbar-button-group-button:first-child, .home-toolbar-button-group-button:last-child 
-{
- border-radius: 0 !important;
- border-radius-top: 0 !important;
- border-radius-bottom: 0 !important;
- border-radius-right: 0 !important;
- border-radius-left: 0 !important;
-}
+  button, .toggle, .home-toolbar-button-group-button:first-child, .home-toolbar-button-group-button:last-child 
+  {
+   border-radius: 0 !important;
+   border-radius-top: 0 !important;
+   border-radius-bottom: 0 !important;
+   border-radius-right: 0 !important;
+   border-radius-left: 0 !important;
+  }
 
-.home-categories-link, .home-categories-main, .home-categories-sub {
- text-transform: none;
- text-stroke: 0.1px;
- -webkit-text-stroke: 0.1px;
-}
+  .home-categories-link, .home-categories-main, .home-categories-sub {
+   text-transform: none;
+   text-stroke: 0.1px;
+   -webkit-text-stroke: 0.1px;
+  }
