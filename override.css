@@ -17,8 +17,12 @@
  text-shadow: 3px 3px 10px black;
 }
 
+Topbar__topbarMenuSpacer__3hqBi {
+ display: none !important;
+}
+
 /* listing overrides */
-.toggle, .home-toolbar-button-group-button:first-child, .home-toolbar-button-group-button:last-child 
+button, .toggle, .home-toolbar-button-group-button:first-child, .home-toolbar-button-group-button:last-child 
 {
  border-radius: 0 !important;
  border-radius-top: 0 !important;
