@@ -25,3 +25,9 @@
  border-right-radius: 0 !important;
  border-left-radius: 0 !important;
 }
+
+.home-categories-link, .home-categories-main, .home-categories-sub {
+ text-transform: none;
+ text-stroke: 0.1px;
+ -webkit-text-stroke: 0.1px;
+}
