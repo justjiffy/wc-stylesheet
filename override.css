@@ -18,6 +18,10 @@
 }
 
 /* listing overrides */
-.toggle {
- border-radius: 0 !important;
+.toggle, .home-toolbar-button-group-button:first-child, .home-toolbar-button-group-button:last-child 
+{
+ border-top-radius: 0 !important;
+ border-bottom-radius: 0 !important;
+ border-right-radius: 0 !important;
+ border-left-radius: 0 !important;
 }
