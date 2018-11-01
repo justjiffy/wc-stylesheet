@@ -20,6 +20,7 @@
 /* listing overrides */
 .toggle, .home-toolbar-button-group-button:first-child, .home-toolbar-button-group-button:last-child 
 {
+ border-radius: 0 !important;
  border-radius-top: 0 !important;
  border-radius-bottom: 0 !important;
  border-radius-right: 0 !important;
