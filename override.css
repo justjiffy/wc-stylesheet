@@ -26,8 +26,9 @@
   .Logo {
    margin-right: auto !important;
   }
-  .MenuSection MenuMobile__menuSection__gD-As {
+  .MenuSection MenuMobile__menuSection__gD-As:first-child {
     display: none !important;
+    background-color: red;
   }
   .OffScreenMenu_header .LoginLinks .Link__link__3pNRT {
     display: block; 
