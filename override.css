@@ -15,6 +15,11 @@
       background-color: black !important;
     }
 
+    .SearchBar__mobileSearchOpen__34aWg form * {
+      font-weight: bold;
+      font-size: 18px
+    }
+
   .marketplace-lander .marketplace-lander-content-title, .marketplace-lander .marketplace-lander-content-description 
   {
    color: white;
