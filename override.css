@@ -27,7 +27,8 @@
    margin-right: auto !important;
   }
   .MenuMobile__offScreenMain__1ruzb {
-    display: none;
+    background-color: red !important;
+    display: none !important;
   }
   .OffScreenMenu_header .LoginLinks .Link__link__3pNRT {
     display: block; 
