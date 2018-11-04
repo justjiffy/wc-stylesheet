@@ -65,8 +65,14 @@
 /* Sign up page */
     a.fb-connect {
       border-radius: 0;
+      background-color: black !important;
     }
-
+    input[type=text], input[type=password], input[type=number], textarea {
+      border-radius: 0 !important;
+    }
+    input:focus {
+      outline: #dddddd auto 7px !important;
+    }
     #mistyped_email_link {
       background: black;
       color: white;
