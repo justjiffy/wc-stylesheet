@@ -26,8 +26,7 @@
   .Logo {
    margin-right: auto !important;
   }
-  .MenuMobile__offScreenMain__1ruzb {
-    background-color: red !important;
+  .MenuMobile__offScreenMain__1ruzb:first-child {
     display: none !important;
   }
   .OffScreenMenu_header .LoginLinks .Link__link__3pNRT {
