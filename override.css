@@ -26,7 +26,7 @@
     }
 
     .Topbar__topbarLinks__CCME8, .AddNewListingButton__button__2H8yh * {
-      font-weight: 400;
+      font-weight: 400 !important;
       font-style: normal;
       font-size: 9.5px;
       letter-spacing: .14em;
