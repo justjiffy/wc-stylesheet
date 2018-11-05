@@ -60,7 +60,20 @@
    text-stroke: 0.1px;
    -webkit-text-stroke: 0.1px;
   }
+input[type=checkbox] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    height: 16px;
+    width: 16px;
+    border: 1px solid black;
+}
 
+input[type=checkbox]:checked {
+    background-size: 16px 16px;
+    background-image: url('https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-check-mark-1.png');
+    color: white;
+    border: 1px solid black;
+}
 
 /* Sign up page */
     a.fb-connect {
