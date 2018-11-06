@@ -63,7 +63,12 @@
     margin-top: 10px;
     margin-left: -10px;
     margin-right: -10px;
-  }
+    }
+    .SearchBar__mobileToggle__3pjye svg {
+      width: 20px;
+      height: 20px;
+      margin-top: 9px;
+    }
 /* listing overrides */
   button, .toggle, .home-toolbar-button-group-button:first-child, .home-toolbar-button-group-button:last-child 
   {
