@@ -57,7 +57,13 @@
     padding-right: 0;
     padding-left: 0;
   }
-
+  .MenuMobile__menuLabelMobileIcon__14XBz svg {
+    width: 40px;
+    height: 17px;
+    margin-top: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
+  }
 /* listing overrides */
   button, .toggle, .home-toolbar-button-group-button:first-child, .home-toolbar-button-group-button:last-child 
   {
