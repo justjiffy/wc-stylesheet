@@ -109,7 +109,11 @@ input[type=checkbox]:checked {
     background-image: url('https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-check-mark-1.png');
     color: white;
     border: 1px solid black;
+}  
+.listing-image-frame {
+    background-color: white !important;
 }
+
 
 /* Sign up page */
     a.fb-connect {
