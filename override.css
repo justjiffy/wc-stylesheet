@@ -124,7 +124,7 @@ input[type=checkbox]:checked {
       border-radius: 0 !important;
     }
     input:focus {
-      outline: #dddddd auto 7px !important;
+      outline: none !important;
     }
     #mistyped_email_link {
       background: black;
