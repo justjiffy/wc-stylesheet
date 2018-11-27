@@ -123,7 +123,7 @@ input[type=checkbox]:checked {
     input[type=text], input[type=password], input[type=number], textarea {
       border-radius: 0 !important;
     }
-    input:focus {
+    input:focus, select:focus {
       outline: none !important;
     }
     #mistyped_email_link {
